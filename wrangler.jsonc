@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "screentime",
+  "compatibility_date": "2026-06-24",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "remix_-remix_-remix_-screen-time-tracker"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
