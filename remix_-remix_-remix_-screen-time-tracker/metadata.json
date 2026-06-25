@@ -1,8 +1,0 @@
-{
-  "name": "Remix: Remix: Remix: Screen Time Tracker",
-  "description": "A clean and modern app to record smartphone screen time and upload verification photos to track your healthy digital habits.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
